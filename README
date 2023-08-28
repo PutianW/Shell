@@ -1,0 +1,20 @@
+This is a shell interpreter which combines behaviors from both bash and csh.
+
+It has the following functionalities:
+
+1.    Parsing and executing (including functions such as pipes, etc.)
+2.    Signal Handling (Ctrl C)
+3.    Zombie Elimation
+4.    Exit
+5.    Quotes
+6.    Escaping
+7.    Builtin Functions (printenv, setenv, cd, source...)
+8.    Default Source File
+9.    Subshells
+10.   Enviornment Variable Expansion
+11.   Tilde Expansion
+12.   Wildcarding
+13.   Edit Mode
+14.   History
+15.   Path Completion
+16.   Variable Prompt
